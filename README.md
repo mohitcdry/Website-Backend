@@ -1,0 +1,2 @@
+# Stoic
+padhai krlo thoda
