@@ -2,7 +2,7 @@ from motor import motor_asyncio
 import os
 
 password=os.environ.get("PSD")
-client=motor_asyncio.AsyncIOMotorClient(f"mongodb+srv://micee:loveyou3000@cluster007.uutez1v.mongodb.net/")
+client=motor_asyncio.AsyncIOMotorClient(f"## please here write mongodb database connection url ##")
 
 database=client.mohit
 
